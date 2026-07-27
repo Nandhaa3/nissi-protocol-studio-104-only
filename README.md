@@ -267,3 +267,4 @@ PyInstaller route (compiling `backend/main.py` into a standalone
 `nissi-backend.exe` with no Python install required on the target
 machine) is the next step.
 "# nissi-protocol-studio-104-only" 
+"# nissi-protocol-studio-104-modbus" 
